@@ -1,2 +1,15 @@
 # web-scraper-toolkit-w31
-Python toolkit for web scraping with Playwright and BeautifulSoup
+
+> Last updated: 2026-07-28
+
+## About
+
+This repository is actively maintained and updated regularly.
+
+## Getting Started
+
+Clone the repo and follow the setup instructions.
+
+## Contributing
+
+Contributions welcome! Please read CONTRIBUTING.md first.
