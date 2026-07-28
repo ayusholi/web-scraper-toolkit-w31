@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update CI workflow triggers
-- Updated: 2026-07-28T13:00:01.010Z
+- handle timeout errors in HTTP client
+- Build: 2026-07-28T13:00:01.010Z
