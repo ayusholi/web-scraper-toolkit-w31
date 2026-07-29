@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-07-28T13:00:01.010Z
+Last updated: 2026-07-29T13:00:01.319Z
 
-## Summary
+## Progress
 
-- use dependency injection pattern
+- add gitignore and project config files
