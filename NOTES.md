@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-07-30T13:00:01.176Z
+Session: 2026-07-30T13:00:01.176Z
 
-## Progress
+## Summary
 
-- add unit tests for core functions
+- correct date parsing for different locales
