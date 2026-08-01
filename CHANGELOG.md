@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- update CI workflow triggers
-- Build: 2026-07-30T13:00:01.176Z
+- handle empty response gracefully
+- Updated: 2026-08-01T13:00:00.983Z
