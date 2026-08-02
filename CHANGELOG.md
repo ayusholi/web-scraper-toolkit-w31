@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- use dependency injection pattern
-- Build: 2026-08-01T13:00:00.983Z
+- resolve memory leak in event listener
+- Updated: 2026-08-02T13:00:02.520Z
