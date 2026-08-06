@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- add caching layer for improved performance
-- Build: 2026-08-02T13:00:02.520Z
+- optimize database query performance
+- Updated: 2026-08-06T13:00:01.127Z
