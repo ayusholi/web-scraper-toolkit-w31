@@ -2,5 +2,5 @@
 
 ## [Unreleased]
 
-- mock external dependencies in tests
-- Build: 2026-08-10T13:00:01.146Z
+- add architecture decision records
+- Updated: 2026-08-13T13:00:01.255Z
