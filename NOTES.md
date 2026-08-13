@@ -1,7 +1,7 @@
 # Notes
 
-Session: 2026-08-10T13:00:01.146Z
+Last updated: 2026-08-13T13:00:01.255Z
 
-## Summary
+## Progress
 
-- add input sanitization and validation
+- move constants to dedicated config file
