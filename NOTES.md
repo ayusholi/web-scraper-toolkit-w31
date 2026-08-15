@@ -1,7 +1,7 @@
 # Notes
 
-Last updated: 2026-08-15T13:00:01.238Z
+Session: 2026-08-15T13:00:01.238Z
 
-## Progress
+## Summary
 
-- handle empty response gracefully
+- correct sorting algorithm for edge cases
